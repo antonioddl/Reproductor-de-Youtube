@@ -1,0 +1,10 @@
+c:\users\tony\documents\visual studio 2017\Projects\youtubeSecondTry\youtubeSecondTry\bin\Debug\youtubeSecondTry.exe.config
+c:\users\tony\documents\visual studio 2017\Projects\youtubeSecondTry\youtubeSecondTry\bin\Debug\youtubeSecondTry.exe
+c:\users\tony\documents\visual studio 2017\Projects\youtubeSecondTry\youtubeSecondTry\bin\Debug\youtubeSecondTry.pdb
+c:\users\tony\documents\visual studio 2017\Projects\youtubeSecondTry\youtubeSecondTry\bin\Debug\YoutubeSearch.dll
+c:\users\tony\documents\visual studio 2017\Projects\youtubeSecondTry\youtubeSecondTry\obj\Debug\youtubeSecondTry.csprojResolveAssemblyReference.cache
+c:\users\tony\documents\visual studio 2017\Projects\youtubeSecondTry\youtubeSecondTry\obj\Debug\youtubeSecondTry.MainForm.resources
+c:\users\tony\documents\visual studio 2017\Projects\youtubeSecondTry\youtubeSecondTry\obj\Debug\youtubeSecondTry.Properties.Resources.resources
+c:\users\tony\documents\visual studio 2017\Projects\youtubeSecondTry\youtubeSecondTry\obj\Debug\youtubeSecondTry.csproj.GenerateResource.Cache
+c:\users\tony\documents\visual studio 2017\Projects\youtubeSecondTry\youtubeSecondTry\obj\Debug\youtubeSecondTry.exe
+c:\users\tony\documents\visual studio 2017\Projects\youtubeSecondTry\youtubeSecondTry\obj\Debug\youtubeSecondTry.pdb
